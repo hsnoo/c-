@@ -142,3 +142,6 @@ void ShowAllAccInfo(void)
 		cout << "잔 액: " << accArr[i].balance << endl << endl;
 	}
 }
+
+
+
