@@ -1,5 +1,11 @@
 # C++
 
-my first repository on GitHub
+HI, my first repository on GitHub
 
-I need a information C++.
+Welcom!!
+
+I need a information C++ lang.
+
+I am well informed about this.
+
+thank you.
