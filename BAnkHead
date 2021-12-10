@@ -1,0 +1,11 @@
+//BankHead
+
+#pragma once
+
+void ShowMenu(void);
+void MakeAccount(void);
+void DepositMoney(void);
+void WithdrawMoney(void);
+void ShowAllAccInfo(void);
+
+
