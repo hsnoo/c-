@@ -52,6 +52,7 @@ int main(void)
 			ShowAllAccInfo();
 			break;
 		case EXIT:
+			cout << "프로그램을 종료합니다." << endl;
 			return 0;
 		default:
 			cout << "Illegal selection.." << endl;
@@ -137,9 +138,11 @@ void ShowAllAccInfo(void)
 {
 	for (int i = 0; i < accNum; i++)
 	{
+		cout << "====================" << endl;
 		cout << "계좌ID : " << accArr[i].accID << endl << endl;
 		cout << "이 름: " << accArr[i].cusName << endl << endl;
 		cout << "잔 액: " << accArr[i].balance << endl << endl;
+		cout << "====================" << endl;
 	}
 }
 
